@@ -1,0 +1,15 @@
+D:\Зоя\Desktop\GIT\p02\obj\Debug\net6.0\p02.csproj.AssemblyReference.cache
+D:\Зоя\Desktop\GIT\p02\obj\Debug\net6.0\p02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Зоя\Desktop\GIT\p02\obj\Debug\net6.0\p02.AssemblyInfoInputs.cache
+D:\Зоя\Desktop\GIT\p02\obj\Debug\net6.0\p02.AssemblyInfo.cs
+D:\Зоя\Desktop\GIT\p02\obj\Debug\net6.0\p02.csproj.CoreCompileInputs.cache
+D:\Зоя\Desktop\GIT\p02\bin\Debug\net6.0\p02.exe
+D:\Зоя\Desktop\GIT\p02\bin\Debug\net6.0\p02.deps.json
+D:\Зоя\Desktop\GIT\p02\bin\Debug\net6.0\p02.runtimeconfig.json
+D:\Зоя\Desktop\GIT\p02\bin\Debug\net6.0\p02.dll
+D:\Зоя\Desktop\GIT\p02\bin\Debug\net6.0\p02.pdb
+D:\Зоя\Desktop\GIT\p02\obj\Debug\net6.0\p02.dll
+D:\Зоя\Desktop\GIT\p02\obj\Debug\net6.0\refint\p02.dll
+D:\Зоя\Desktop\GIT\p02\obj\Debug\net6.0\p02.pdb
+D:\Зоя\Desktop\GIT\p02\obj\Debug\net6.0\p02.genruntimeconfig.cache
+D:\Зоя\Desktop\GIT\p02\obj\Debug\net6.0\ref\p02.dll
